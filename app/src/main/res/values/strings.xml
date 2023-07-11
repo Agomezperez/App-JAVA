@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LegisUnicor</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="open">Abrir</string>
+    <string name="close">Cerrar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_registro_user">RegistroUserActivity</string>
+
+    <string-array name="roles_array">
+        <item>"Seleccione</item>
+        <item>administrador</item>
+        <item>abogado</item>
+        <item>cliente</item>
+    </string-array>
+
+    <string-array name="estados">
+        <item>Abierto</item>
+        <item>Cerrado</item>
+        <item>Resuelto</item>
+        <item>En Trámite</item>
+        <item>En Juzgado</item>
+        <item>Apelación</item>
+        <item>Por Asignar</item>
+        <item>Indagatoria</item>
+    </string-array>
+
+</resources>
